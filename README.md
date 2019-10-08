@@ -29,4 +29,20 @@ Description: llama- a cydia repo template
 </div>
 
 <div class="container">
+
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/rojorhanzo</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>I want this depiction template</name>
+			<url>https://github.com/rhimaris/llama/</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>
+
   
