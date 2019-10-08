@@ -1,8 +1,8 @@
-Origin: Reposi3
-Label: Reposi3
+Origin: llama
+Label: llama
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Reposi3 - a cydia repo template
+Description: llama- a cydia repo template
